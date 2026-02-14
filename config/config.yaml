@@ -65,8 +65,6 @@ platforms:
       name: "澎湃新闻"
     - id: "bilibili-hot-search"
       name: "bilibili 热搜"
-    - id: "cls-hot"
-      name: "财联社热门"
     - id: "ifeng"
       name: "凤凰网"
     - id: "tieba"
@@ -77,6 +75,16 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
+    - id: "ifeng"
+      name: "凤凰网"
+    - id: "cankaoxiaoxi"
+      name: "参考消息"
+    - id: "sputniknewscn"
+      name: "卫星通讯社"
+    - id: "mktnews"
+      name: "MKT新闻"
+    - id: "kaopu"
+      name: "靠谱新闻"
 
 
 
